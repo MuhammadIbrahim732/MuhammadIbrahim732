@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Ibrahim 👋</h1>
 
 <p align="center">
-  <b>Flutter Developer &nbsp;|&nbsp; Mobile App Engineer &nbsp;|&nbsp; BS Software Engineering @ NTU</b>
+  <b>Flutter Developer &nbsp;|&nbsp; UI/UX Designer &nbsp;|&nbsp; BS Software Engineering @ NTU</b>
 </p>
 
 <p align="center">
