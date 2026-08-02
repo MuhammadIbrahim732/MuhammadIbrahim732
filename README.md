@@ -169,7 +169,7 @@ An automated recruitment workflow that analyzes candidate CVs using Google Gemin
 
 📧 **Email:** mibrahim.seng@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-ibrahim-4a8425330
+💼 **LinkedIn:** www.linkedin.com/in/muhammad-ibrahim-python
 
 🐙 **GitHub:** https://github.com/MuhammadIbrahim732
 
