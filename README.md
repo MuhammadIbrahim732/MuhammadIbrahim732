@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Muhammad Ibrahim 👋</h1>
 
 <p align="center">
-  <b>Python Developer | Data Analyst | Flutter Mobile App Developer</b>
+  <b>AI/ML Engineer | Python Developer | Software Engineering Graduate</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-ibrahim-4a8425330">
-    <img src="https://img.shields.io/badge/LinkedIn-muhammad--ibrahim-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ibrahim-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mibrahim.seng@gmail.com">
     <img src="https://img.shields.io/badge/Email-mibrahim.seng%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
@@ -21,17 +21,30 @@
 
 # 👨‍💻 About Me
 
-I'm a passionate **Python Developer**, **Data Analyst**, and **Flutter Mobile App Developer** who enjoys transforming raw data into meaningful insights and building cross-platform mobile applications.
+I'm a **Software Engineering graduate focused on Artificial Intelligence and Machine Learning**, with hands-on experience building machine learning and deep learning projects using Python.
 
-I work with Python's data ecosystem to analyze datasets, clean data, create visualizations, and develop practical machine learning solutions.
+My current focus is on developing practical AI systems across:
 
-- 📊 Learning Data Analysis & Data Visualization
-- 🐍 Python Developer
-- 📱 Flutter Mobile App Developer
-- 📈 Exploring Machine Learning & AI
-- ☁️ Using Google Colab & Kaggle for projects
-- 💼 Open to internships and junior opportunities
-- 📍 Pakistan
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* 💬 Natural Language Processing
+* 🔥 Transformers & Hugging Face
+* ✨ Generative AI
+* ⚙️ AI Automation & Agentic AI
+* 🚀 ML Model Deployment & MLOps
+
+I enjoy taking a project from **raw data → EDA → preprocessing → model training → evaluation → deployment**.
+
+* 🐍 Python for AI/ML
+* 📊 Data Analysis & Exploratory Data Analysis
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* 🔤 NLP & Transformers
+* 🤗 Hugging Face
+* ⚡ FastAPI for AI model APIs
+* ☁️ Google Colab & Kaggle
+* 💼 Open to AI/ML internships and junior opportunities
+* 📍 Pakistan
 
 ---
 
@@ -39,139 +52,307 @@ I work with Python's data ecosystem to analyze datasets, clean data, create visu
 
 ## Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
 
 ---
 
-## Data Science & Analytics
+## Data Science & Machine Learning
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4285F4?style=flat)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=flat)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
 
 ---
 
-## Platforms & Tools
+## Deep Learning & AI
 
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat\&logo=keras\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
 
----
+### Concepts
 
-## Mobile App Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
-### 📊 Seaborn
-**Python • Seaborn • Data Visualization**
-
-A collection of Seaborn tutorials and hands-on examples covering statistical visualizations such as scatter plots, bar charts, box plots, heatmaps, pair plots, distribution plots, and customization techniques for exploratory data analysis.
+* Artificial Neural Networks
+* CNNs
+* RNNs
+* LSTMs
+* Attention Mechanism
+* Transformers
+* Transfer Learning
+* NLP
+* Intent Detection
+* Text Classification
+* Tokenization
+* Sequence-to-Sequence Models
 
 ---
 
-### 📈 Matplotlib
-**Python • Matplotlib • Data Visualization**
+## Generative AI & AI Engineering
 
-A beginner-friendly project demonstrating the fundamentals of Matplotlib, including line charts, bar charts, pie charts, histograms, scatter plots, box plots, plot styling, annotations, legends, and figure customization.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat\&logo=google\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat\&logo=n8n\&logoColor=white)
 
----
-
-### 📑 Feature Extraction with Pandas
-**Python • Pandas • Data Analysis**
-
-A practical project focused on feature extraction and preprocessing using Pandas, including handling categorical data, generating new features, transforming datasets, and preparing data for machine learning.
-
----
-
-### 🐼 Pandas Problems
-**Python • Pandas**
-
-A comprehensive collection of Pandas practice problems covering Series, DataFrames, indexing, filtering, grouping, merging, missing values, aggregation, sorting, and real-world data manipulation exercises.
+* Generative AI
+* LLM Applications
+* Prompt Engineering
+* LangChain
+* AI Automation
+* AI Agents
+* Agentic AI
+* RAG
+* AI API Development
 
 ---
 
-### 🔢 NumPy Problems
-**Python • NumPy**
+## Tools & Platforms
 
-A comprehensive collection of NumPy tutorials, examples, and coding exercises covering array creation, indexing, slicing, reshaping, broadcasting, mathematical operations, statistics, and random number generation.
-
----
-
-### 💻 Python CLI Projects
-**Python**
-
-A collection of beginner-friendly command-line applications built with Python, including practical projects that strengthen programming fundamentals, problem-solving, file handling, loops, functions, and object-oriented programming.
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat\&logo=googlecolab\&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat\&logo=kaggle\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-### 🍳 AI Recipe Generator
-**Python • AI**
+# 🚀 Featured AI/ML Projects
 
-An AI-powered recipe recommendation application that generates personalized recipes based on available ingredients, dietary preferences, and cooking styles.
+### 💳 Credit Risk Analysis
+
+**Python • Pandas • Scikit-Learn • XGBoost • SHAP • Machine Learning**
+
+A machine learning classification system for predicting loan default risk.
+
+The project includes:
+
+* Data cleaning and validation
+* Exploratory Data Analysis
+* Feature preprocessing
+* Class imbalance handling
+* Logistic Regression baseline
+* XGBoost
+* Cross-validation
+* Hyperparameter tuning
+* Probability calibration
+* Threshold optimization
+* SHAP explainability
+* False Positive / False Negative analysis
+* Model serialization
 
 ---
 
-### 🤖 AI Chatbot
-**Python • NLP**
+### ⚙️ Predictive Maintenance System
 
-An intelligent chatbot developed with Python that understands natural language, answers user queries, and provides real-time conversational responses.
+**Python • Scikit-Learn • XGBoost • Machine Learning**
+
+A predictive maintenance system that predicts whether industrial equipment is likely to experience a machine failure.
+
+The project covers:
+
+* Data validation
+* Exploratory Data Analysis
+* Outlier analysis
+* Feature preprocessing
+* Class imbalance handling
+* Multiple classification models
+* XGBoost
+* Cross-validation
+* Model evaluation
+* Probability calibration
+* Threshold optimization
+* False Positive / False Negative analysis
+* Model saving with Joblib
 
 ---
 
-### ⚙️ n8n Interview Scheduler Workflow
-**n8n • Google Gemini AI • Automation**
+### 🧠 Student Mental Health Score Prediction
 
-An automated recruitment workflow that analyzes candidate CVs using Google Gemini AI, filters applicants based on job requirements, requests HR approval through Gmail, and schedules interviews automatically.
-# 📚 Currently Learning
+**Python • Pandas • Scikit-Learn • Random Forest • Regression**
 
-- Advanced Pandas
-- NumPy
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Machine Learning
-- Deep Learning
-- Flutter Clean Architecture
+A machine learning regression project that predicts a student's mental-health score using demographic, academic, lifestyle, social-media, sleep, physical-activity, and stress-related features.
+
+The project includes:
+
+* Data validation
+* Exploratory Data Analysis
+* Data cleaning
+* Outlier analysis
+* Feature engineering
+* Log transformation
+* Ordinal encoding
+* One-hot encoding
+* ColumnTransformer
+* Machine learning pipelines
+* Linear Regression
+* Random Forest Regression
+* RandomizedSearchCV
+* Model evaluation using R², MAE, MSE and RMSE
+* Model serialization
+
+---
+
+### 🚗 Car Price Prediction
+
+**Python • Pandas • Scikit-Learn • Regression • Streamlit**
+
+A machine learning regression project that predicts vehicle prices using features such as fuel type, transmission, engine-related attributes, and other vehicle characteristics.
+
+---
+
+### 🫁 Pneumonia Image Classification
+
+**Python • TensorFlow • Keras • CNN • Transfer Learning**
+
+A deep learning image-classification project using chest X-ray images to classify:
+
+```text
+NORMAL
+PNEUMONIA
+```
+
+The project explores:
+
+* CNN architecture
+* Image preprocessing
+* Data augmentation
+* Class imbalance
+* Class weights
+* Confusion matrix
+* Model evaluation
+* Transfer learning
+
+---
+
+### 💬 NLP Sentiment & Intent Classification
+
+**Python • NLP • TF-IDF • RNN • Transformers**
+
+A natural-language-processing project focused on understanding text sentiment and user intent.
+
+Topics explored include:
+
+* Text preprocessing
+* Tokenization
+* TF-IDF
+* Sequence processing
+* RNN
+* LSTM
+* Intent Detection
+* Transformers
+
+---
+
+### 🎓 SkillGuide AI
+
+**Flutter • FastAPI • OpenAI • LangChain • NLP • FAISS/Pinecone**
+
+An AI-powered educational/career guidance application designed to help users discover relevant learning and career paths.
+
+Technologies explored include:
+
+* Flutter
+* FastAPI
+* LLM APIs
+* LangChain
+* NLP
+* Embeddings
+* Vector Search
+* FAISS / Pinecone
+
+---
+
+### ⚙️ n8n Interview Scheduler
+
+**n8n • Google Gemini • Gmail • AI Automation**
+
+An automated recruitment workflow that:
+
+1. Processes candidate CV information
+2. Uses Gemini AI for candidate analysis
+3. Matches candidates against job requirements
+4. Requests HR approval
+5. Sends communication through Gmail
+6. Automates interview scheduling
+
+---
+
+# 📚 Current Learning Path
+
+My current learning path is focused on building a strong **AI Engineering / ML Engineering** foundation.
+
+```text
+Python for AI
+      ↓
+NumPy + Pandas
+      ↓
+Data Analysis + EDA
+      ↓
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+NLP
+      ↓
+Transformers
+      ↓
+Hugging Face
+      ↓
+Generative AI
+      ↓
+FastAPI
+      ↓
+RAG
+      ↓
+AI Agents / Agentic AI
+      ↓
+MLOps
+```
+
+### Currently Exploring
+
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* 🔤 NLP
+* 🤗 Hugging Face
+* 🔥 Transformers
+* ✨ Generative AI
+* ⚡ FastAPI
+* 🔎 RAG
+* 🤝 AI Agents
+* ⚙️ Agentic AI
+* 🚀 MLOps
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadIbrahim732&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIbrahim732&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadIbrahim732&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIbrahim732&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIbrahim732&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIbrahim732&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email:** mibrahim.seng@gmail.com
+📧 **Email:** [mibrahim.seng@gmail.com](mailto:mibrahim.seng@gmail.com)
 
-💼 **LinkedIn:** www.linkedin.com/in/muhammad-ibrahim-python
+💼 **LinkedIn:** [Muhammad Ibrahim](https://www.linkedin.com/in/muhammad-ibrahim-4a8425330)
 
-🐙 **GitHub:** https://github.com/MuhammadIbrahim732
+🐙 **GitHub:** [MuhammadIbrahim732](https://github.com/MuhammadIbrahim732)
 
 📍 **Pakistan**
 
@@ -179,8 +360,8 @@ An automated recruitment workflow that analyzes candidate CVs using Google Gemin
 
 <p align="center">
 
-### ⭐ Python • Data Analysis • Data Visualization • Flutter Development ⭐
+### 🤖 Machine Learning • Deep Learning • Generative AI • AI Engineering
 
-*"Turning data into insights and ideas into mobile applications."*
+*"Building practical AI systems from data to deployment."*
 
 </p>
